@@ -5,7 +5,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/mitchcamza?label=Profile%20Stars&logo=github)](https://github.com/mitchcamza)
 
 ## 🚀 About Me
-🎓 BSc Computing graduate | 💻 Software Developer | 🎮 Game Dev Enthusiast | 🤖 AI & ML Explorer  
+🎓 BSc Computer Science | 💻 Software Developer 
 
 Hi, I'm Mitch! I'm a **software developer** with a passion for **game development, AI, and machine learning**. I enjoy solving complex problems, optimizing performance, and creating immersive digital experiences. 
 
@@ -16,7 +16,7 @@ Hi, I'm Mitch! I'm a **software developer** with a passion for **game developmen
 
 ### 🎯 Goals  
 🚀 **Master** DevOps tools like Docker, Kubernetes, and AWS  
-🎮 **Deepen** my understanding of game engine architecture  
+🎮 **Deepen** my understanding of game engine architecture and cloud-hosted multiplayer gameplay   
 🤖 **Explore** AI-driven gaming experiences  
 
 ## 📈 GitHub Stats
