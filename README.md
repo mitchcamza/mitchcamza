@@ -1,27 +1,30 @@
 # 👋 Hey there, I'm Mitch!
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mitchcamza&color=blue)](https://github.com/mitchcamza)
-[![GitHub followers](https://img.shields.io/github/followers/mitchcamza?label=Followers)](https://github.com/mitchcamza?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/mitchcamza?label=Profile%20Stars&logo=github)](https://github.com/mitchcamza)
+[![Profile Views](https://komarev.com/ghpvc/?username=mitchcamza&color=blue)](https://github.com/mitchcamza)  
+[![GitHub followers](https://img.shields.io/github/followers/mitchcamza?label=Followers)](https://github.com/mitchcamza?tab=followers)  
+[![GitHub Stars](https://img.shields.io/github/stars/mitchcamza?label=Profile%20Stars&logo=github)](https://github.com/mitchcamza)  
 
-## 🚀 About Me
-🎓 BSc Computer Science | 💻 Software Developer 
+## 🚀 About Me  
+🎓 BSc Computer Science | ⚡ Real-Time Systems | 🕹️ Multiplayer | 👨🏻‍💻 DevOps 
 
-Hi, I'm Mitch! I'm a **software developer** with a passion for **game development, AI, and machine learning**. I enjoy solving complex problems, optimizing performance, and creating immersive digital experiences. 
+Hi, I'm Mitch! I'm a **software developer** specializing in **high-performance real-time systems**. My primary focus is on learning **multiplayer gameplay programming in Unreal Engine**, with a strong interest in networking, physics simulations, and game scalability.  
+
+I'm also passionate about **DevOps and CI/CD workflows**, optimizing development pipelines for smooth, efficient deployments.  
 
 ### 🛠️ What I Do  
-🔹 Build **high-performance applications** using C++, Python, and JavaScript  
-🔹 Develop **game mechanics and simulations** in Unity and Unreal Engine   
-🔹 Work with **backend systems and databases** (Django, PostgreSQL, MySQL)  
+- **Develop real-time applications** with C++ and Unreal Engine  
+- **Explore multiplayer gameplay mechanics** (replication, latency handling, dedicated servers)  
+- **Optimize high-performance systems** for games and simulations  
+- **Streamline DevOps workflows** using Docker, Kubernetes, and CI/CD automation  
 
-### 🎯 Goals  
-🚀 **Master** DevOps tools like Docker, Kubernetes, and AWS  
-🎮 **Deepen** my understanding of game engine architecture and cloud-hosted multiplayer gameplay   
-🤖 **Explore** AI-driven gaming experiences  
+### 🎯 Current Goals  
+🎮 **Master multiplayer networking in Unreal Engine** (server-client architecture, rollback netcode)  
+⚙️ **Improve real-time system performance** (profiling, memory management, parallel processing)  
+🚀 **Enhance DevOps skills** for scalable game deployments and automation  
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitchcamza&show_icons=true&theme=light&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchcamza&layout=compact&theme=light&hide_border=true)
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitchcamza&show_icons=true&theme=light&count_private=true&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchcamza&layout=compact&theme=light&hide_border=true)  
 
-## 🗨️ Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitch-campbell-93b18919b/)
+## 🗨️ Get in Touch  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitch-campbell-93b18919b/)  
