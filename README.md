@@ -7,20 +7,15 @@
 ## 🚀 About Me  
 🎓 BSc Computer Science | ⚡ Real-Time Systems | 🕹️ Multiplayer | 👨🏻‍💻 DevOps 
 
-Hi, I'm Mitch! I'm a **software developer** specializing in **high-performance real-time systems**. My primary focus is on learning **multiplayer gameplay programming in Unreal Engine**, with a strong interest in networking, physics simulations, and game scalability.  
+Hi, I'm Mitch! I'm a **tech enthusiast** specializing in **high-performance real-time systems**. My primary focus is on learning **industrial automation systems**, with a strong interest in networking, physics simulations, and game development using Unreal Engine.  
 
 I'm also passionate about **DevOps and CI/CD workflows**, optimizing development pipelines for smooth, efficient deployments.  
 
 ### 🛠️ What I Do  
-- **Develop real-time applications** with C++ and Unreal Engine  
+- **Develop real-time applications**   
 - **Explore multiplayer gameplay mechanics** (replication, latency handling, dedicated servers)  
 - **Optimize high-performance systems** for games and simulations  
 - **Streamline DevOps workflows** using Docker, Kubernetes, and CI/CD automation  
-
-### 🎯 Current Goals  
-🎮 **Master multiplayer networking in Unreal Engine** (server-client architecture, rollback netcode)  
-⚙️ **Improve real-time system performance** (profiling, memory management, parallel processing)  
-🚀 **Enhance DevOps skills** for scalable game deployments and automation  
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitchcamza&show_icons=true&theme=light&count_private=true&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchcamza&layout=compact&theme=light&hide_border=true)  
