@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 🎓 BSc Computer Science | ⚡ Real-Time Systems | 🕹️ Multiplayer | 👨🏻‍💻 DevOps 
 
-Hi, I'm Mitch! I'm a **tech enthusiast** specializing in **high-performance real-time systems**. My primary focus is on learning **industrial automation systems**, with a strong interest in networking, physics simulations, and game development using Unreal Engine.  
+Hi, I'm Mitch! I'm a **recent CS grad** with an interest in **high-performance real-time systems**. My primary focus is on learning **industrial automation systems**, with a strong interest in networking, physics simulations, and game development using Unreal Engine.  
 
 I'm also passionate about **DevOps and CI/CD workflows**, optimizing development pipelines for smooth, efficient deployments.  
 
