@@ -17,8 +17,5 @@ I'm also passionate about **DevOps and CI/CD workflows**, optimizing development
 - **Optimize high-performance systems** for games and simulations  
 - **Streamline DevOps workflows** using Docker, Kubernetes, and CI/CD automation  
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitchcamza&show_icons=true&theme=light&count_private=true&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchcamza&layout=compact&theme=light&hide_border=true)  
-
 ## 🗨️ Get in Touch  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitch-campbell-93b18919b/)  
