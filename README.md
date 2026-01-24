@@ -1,107 +1,116 @@
-# 👋 Hi, I'm Mitch!
+# Hi, I'm Mitch Campbell
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mitchcamza&color=blue)](https://github.com/mitchcamza)  [![GitHub followers](https://img.shields.io/github/followers/mitchcamza?label=Followers)](https://github.com/mitchcamza?tab=followers)  [![GitHub Stars](https://img.shields.io/github/stars/mitchcamza?label=Profile%20Stars&logo=github)](https://github.com/mitchcamza)  
+**Software Developer with Production Systems Experience**
 
-## 🚀 About Me  
+Backend, C++ & platform-focused · Strong foundations in Linux, containers, and automation
 
-Systems & Infrastructure Engineer with a strong foundation in software
-development and automation.
-
-I work in production-critical Linux and industrial environments, where
-reliability, security, and operational correctness matter. Alongside this,
-I actively build software projects and automation tooling, with a long-term
-focus on DevOps and software engineering roles that sit close to real-world
-systems.
+[![GitHub followers](https://img.shields.io/github/followers/mitchcamza?label=Followers&style=social)](https://github.com/mitchcamza)
+[![Profile Views](https://komarev.com/ghpvc/?username=mitchcamza&color=blue)](https://github.com/mitchcamza)
 
 ---
 
-## 🛠️ What I Work On
+## 👨‍💻 About Me
 
-- Designing, operating, and supporting reliable Linux and Windows systems  
-  in enterprise and industrial environments
-- Automating operational workflows using Python, shell scripting, and Git
-- Building and running containerized applications with Docker
-- Developing backend and desktop software using Django, Qt, C++, and C#
-- Applying software engineering practices to reduce operational risk and
-  improve system reliability
+I'm a software developer with a strong computer science foundation and hands-on experience supporting and improving production systems in real operational environments.
+
+I began my career in IT and systems support, working closely with software, data, and controls engineers in industrial and business settings. That background shaped how I approach software — with a focus on reliability, debugging, and maintainability in real deployments.
+
+**My current focus is software engineering roles spanning backend, platform, and DevOps-adjacent teams.** I'm technology-agnostic and comfortable learning new languages or stacks based on the problem at hand. I enjoy frontend development and visualization when it helps clarify complex systems, including full-stack work where owning the path from data to interface leads to better design decisions. I'm open to software-adjacent systems roles that emphasize automation and close collaboration with engineering teams.
 
 ---
 
-## ⚙️ Tools & Technologies
+## 🎯 Core Focus
 
-### 🖥️ Systems & Infrastructure
-- Linux (Ubuntu, RHEL-based), Windows Server
-- Virtualization and networking fundamentals
-- Docker and container-based workflows
+- Software development grounded in strong computer science fundamentals
+- Designing and implementing backend services, APIs, and data-driven systems
+- Object-oriented design, debugging, and writing clear, maintainable code
+- End-to-end thinking, including frontend and visualization work where it improves system clarity
+- Applying these principles across multiple programming languages, frameworks, and stacks
 
-### 🧑‍💻 Software & Automation
-- Python, C++, C#, SQL
-- Django, Qt
-- Git and CI/CD fundamentals
+### Systems & Production Experience
 
-### 🏭 Domains
-- Industrial automation & SCADA
-- Secure and production-critical environments
+- Working in Linux-based production environments using containers (Docker) and scripting
+- Deployment workflows, CI/CD fundamentals, and configuration-driven systems
+- Debugging and supporting software across application, system, and infrastructure layers
+
+### Domain Exposure
+
+- Industrial and production software environments, including data integration at system boundaries
+- Event-driven systems, reliability-focused workflows, and real-world operational constraints
 
 ---
 
-## 📦 Selected Projects
+## 📦 Featured Projects
 
-### 🍋  Little Lemon – Django Backend
+Below are a few selected projects that reflect how I approach software engineering, from native C++ applications to backend systems and performance-sensitive visualization.
+
+### 🧾 Conference Registration – Desktop Application
+
+A desktop application built around structured data-entry workflows and validation, demonstrating object-oriented design in C++, event-driven GUI development in Qt, and separation of concerns between UI and business logic.
+
+**Tech:** C++, Qt (Widgets), Signals/Slots, OOP
+
+📎 https://github.com/mitchcamza/ConferenceRegistration
+
+---
+
+### 🍋 Little Lemon – Django Backend
+
+A full-stack web project demonstrating RESTful API design, authentication, relational data modeling, and containerized deployment with Docker Compose and Nginx.
+
 **Tech:** Python, Django, SQL, REST APIs, Docker, Nginx
-
-A full-stack backend project developed as part of a professional capstone.
-Demonstrates:
-- RESTful API design and authentication
-- Relational data modeling and validation
-- Backend application structure and maintainability
-- Practical deployment and environment configuration concepts
-- Containerized service via Docker & Docker Compose
-- Reverse proxy using Nginx
 
 📎 https://github.com/mitchcamza/LittleLemon
 
 ---
 
 ### 🌍 Earth3D – 3D Graphics & Visualization
-**Tech:** JavaScript, three.js, webGL, Node.js, Vercel  
 
-A 3D graphics project focused on rendering and spatial representation.
-Demonstrates:
-- Core computer graphics concepts
-- 3D transformations and camera systems
-- Performance-aware C++ programming
-- Mathematical foundations relevant to real-time rendering
+A 3D graphics project focused on rendering and spatial representation, demonstrating core computer graphics concepts, 3D transformations, camera systems, and performance-aware programming.
 
-📎 https://github.com/mitchcamza/Earth3D
+**Tech:** JavaScript, three.js, WebGL, Node.js, Vercel
+
+📎 https://github.com/mitchcamza/Earth3D  
+🔗 [Live Demo](https://earth3d-lyart.vercel.app/)
 
 ---
 
-### 🧾 Conference Registration – Desktop Application
-**Tech:** C++, Qt (Widgets)
+## 🛠️ Skills & Technologies
 
-A desktop application designed around structured data entry and validation.
-Demonstrates:
-- Object-oriented design in C++
-- GUI development using Qt
-- Input validation and data handling
-- Separation of concerns between UI and logic
+### 🧑‍💻 Software Engineering
+- **Languages:** C++, Python, JavaScript/TypeScript, C#
+- **Backend:** REST APIs, authentication, relational data modeling
+- **Practices:** Object-oriented design, debugging, maintainable code
+- **Databases:** SQL (relational databases)
+- **Tools:** Git, collaborative workflows
+- **Desktop:** Qt (Widgets)
 
-📎 https://github.com/mitchcamza/ConferenceRegistration
+### 🖥️ Platform & Production
+- **Systems:** Windows, Linux, and macOS development environments
+- **Containers:** Docker, Docker Compose
+- **DevOps:** CI/CD fundamentals, deployment workflows
+- **Automation:** Shell scripting
+- **Networking:** HTTP, TCP/IP fundamentals
+- **Operations:** Production support, incident debugging
+
+### 🏭 Domain Exposure
+- Industrial / production software environments
+- SCADA (Ignition) & PLC integration exposure
+- System boundaries & data integration
+- Reliability-focused workflows
+- Validated / production-critical environments
+- Cross-team collaboration (software, data, controls)
 
 ---
 
-## 🚀 Career Direction
+## 🔗 Let's Connect
 
-I’m currently seeking opportunities where I can:
-- Contribute immediately in systems, infrastructure, or platform-focused roles
-- Continue growing into DevOps or software engineering responsibilities
-- Work on reliable, secure, and thoughtfully engineered systems
+I'm always happy to connect with engineers, recruiters, and teams working on interesting software problems — especially backend, platform, and production-focused systems.
+
+[![Website](https://img.shields.io/badge/Website-mitchcampbell.space-blue?style=flat-square)](https://www.mitchcampbell.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mitch--campbell--93b18919b-0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mitch-campbell-93b18919b/)
+[![GitHub](https://img.shields.io/badge/GitHub-@mitchcamza-181717?logo=github&style=flat-square)](https://github.com/mitchcamza)
 
 ---
 
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mitch--campbell--93b18919b-blue?logo=linkedin)](https://www.linkedin.com/in/mitch-campbell-93b18919b/)
-[![GitHub](https://img.shields.io/badge/GitHub-@mitchcamza-181717?logo=github)](https://github.com/mitchcamza)
-
+*Built with a focus on clarity, reliability, and maintainability.*
