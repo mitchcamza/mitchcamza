@@ -52,6 +52,8 @@ A desktop application built around structured data-entry workflows and validatio
 
 📎 https://github.com/mitchcamza/ConferenceRegistration
 
+![filtering-registrations](https://github.com/user-attachments/assets/5dd71ed2-20d5-4dc2-826f-4408a68bf4d2)
+
 ---
 
 ### 🍋 Little Lemon – Django Backend
@@ -61,6 +63,8 @@ A full-stack web project demonstrating RESTful API design, authentication, relat
 **Tech:** Python, Django, SQL, REST APIs, Docker, Nginx
 
 📎 https://github.com/mitchcamza/LittleLemon
+
+![little-lemon-demo-720p](https://github.com/user-attachments/assets/81404537-436c-4a34-9c8f-74ac89656983)
 
 ---
 
@@ -72,6 +76,8 @@ A 3D graphics project focused on rendering and spatial representation, demonstra
 
 📎 https://github.com/mitchcamza/Earth3D  
 🔗 [Live Demo](https://earth3d-lyart.vercel.app/)
+
+![earth-3d-demo-720p](https://github.com/user-attachments/assets/5f26ab5e-e73d-4224-b8e9-93c845d317ed)
 
 ---
 
